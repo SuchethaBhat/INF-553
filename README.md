@@ -2,7 +2,7 @@
 Contains the solutions to assignments of INF 553: Foundations and Applications of Data Mining (Summer 2020)
 
 Assignment1
--> Familiarize with Spark operations(e.g transformations and actions) and Map Reduce
+-> Familiarize with Spark operations(e.g transformations and actions) and Map Reduce \n
 -> Reviews and Businesses datasets used from Yelp
 
 Assignment2 - 
